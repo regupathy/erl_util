@@ -1,0 +1,19 @@
+%%%-------------------------------------------------------------------
+%%% @author regupathy.b
+%%% @copyright (C) 2016, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 20. Apr 2016 6:02 PM
+%%%-------------------------------------------------------------------
+{application, erl_util, [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+%%   {mod, {erl_util, []}},
+  {env, []}
+]}.
